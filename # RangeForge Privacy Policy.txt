@@ -1,0 +1,82 @@
+# RangeForge Privacy Policy
+
+**Effective date: September 6, 2026**  
+**Developer: range forge**  
+**Contact: rangeforge@gmail.com**
+
+This Privacy Policy explains how RangeForge handles information when you use the Android app.
+
+## Information stored on your device
+
+RangeForge does not require an account and does not include advertising or background analytics.
+
+The app stores information you enter on your device, including equipment profiles, sight-tape settings, calibrations, shooting and tuning records, notes, attached photos, and preferences. This information allows the app to save your work and provide its features.
+
+Your saved archery records and photos are not automatically uploaded to a RangeForge server.
+
+## Location and weather
+
+When you choose a location-based feature, RangeForge requests location permission. With your permission, it uses your device’s location to retrieve weather information for calculations such as density altitude.
+
+Coordinates are sent to **Open-Meteo** to obtain weather information. If you search for a location by name, the search text is sent to **OpenStreetMap’s Nominatim service**, with **Open-Meteo’s geocoding service** used as a fallback. These services also receive standard connection information, such as your IP address, and handle requests under their own privacy policies.
+
+RangeForge does not track your location in the background. You can deny or revoke location permission in Android settings and enter calculation values manually.
+
+## Photos, backups, exports, and printing
+
+Photos you attach are stored locally as part of your app data.
+
+When you create a backup or export, RangeForge saves the selected information to a destination you choose. Backup files may include your records and photos. Exported files are not automatically encrypted by RangeForge; keep them somewhere you trust.
+
+When you print, the document is passed to Android’s printing system and the print service or printer you select. When you share or save files to another service, that service handles them according to its own policies.
+
+Android system backup or device transfer may also copy app data, depending on your device and backup settings. These backups are managed by Android and your selected backup provider, not by RangeForge.
+
+## Support messages
+
+If you contact support, your email application opens a draft for you to review and send. The draft can include app version, units, and equipment details when the context option is enabled.
+
+If you send the message, we receive your email address, message, and any information or attachments you include. We use this information to respond and troubleshoot issues.
+
+## Sharing and advertising
+
+We do not sell your personal information or use it for targeted advertising.
+
+Information leaves your device when needed for the optional services described above, when you send a support message, or when you choose to export, print, share, or back up information.
+
+External websites opened from the app have their own privacy practices.
+
+## Retention and deletion
+
+Local app data remains on your device until you delete it or clear the app’s storage.
+
+You can use the app’s deletion controls or Android’s **Clear storage** option. The app’s delete-all workflow requires saving a safety backup before removing local records.
+
+Deleting app data does not delete previously exported files, safety backups, printed documents, or copies held by cloud or Android backup services. You must manage those copies separately.
+
+Support correspondence is retained only as needed to respond to requests, resolve issues, and meet applicable legal obligations. Contact us to request deletion of information you have sent to support.
+
+We cannot remotely access or delete records stored only on your device.
+
+## Security
+
+RangeForge uses HTTPS for its weather and location-search requests. Your device’s security settings also help protect locally stored information.
+
+No storage or transmission method is completely secure. Protect your device and use care when sharing records or storing backup files.
+
+## Your choices
+
+You may decline location access, revoke permissions, remove saved records, and decide whether to export or share information.
+
+Depending on where you live, you may have additional rights concerning personal information we hold, including access, correction, or deletion. Contact us to make a request.
+
+## Changes to this policy
+
+We may update this policy when the app or its information practices change. Updates will show a revised effective date. Where required, we will provide additional notice of significant changes.
+
+## Contact
+
+For privacy questions or requests:
+
+**range forge**  
+**rangeforge@gmail.com**
